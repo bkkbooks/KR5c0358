@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5c0358/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玄天上帝啟聖錄
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:56:49.088173'
+  source:
+    repository: kanripo
+    path: KR5c0358/KR5c0358_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:a5a6fe06b8cd3182c1a3c7b08bc7fd1f4002f63013bca27e7d872c812fc3a553
